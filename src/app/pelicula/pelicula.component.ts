@@ -39,12 +39,6 @@ export class PeliculaComponent {
     { name: 'Sala 3', value: 3 }
   ];
 
-  categories: any[] = [
-    { name: 'Accounting', key: 'A' },
-    { name: 'Marketing', key: 'M' },
-    { name: 'Production', key: 'P' },
-    { name: 'Research', key: 'R' }
-  ];
 
   ngOnInit() {
 
